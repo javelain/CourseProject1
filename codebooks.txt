@@ -1,0 +1,76 @@
+Codebooks
+=============
+See below the information about each variable found on the submited tidy data (tidydata.txt).
+You should read the files "features.txt" and "features_info.txt" from the downloaded raw file to have more information about the feature.
+
+
+
+ 
+1             tBodyAccMeanX   --> mean for each activity and each subject of the feature :            tBodyAcc-mean()-X
+2             tBodyAccMeanY   --> mean for each activity and each subject of the feature :            tBodyAcc-mean()-Y
+3             tBodyAccMeanZ   --> mean for each activity and each subject of the feature :            tBodyAcc-mean()-Z
+4              tBodyAccStdX   --> mean for each activity and each subject of the feature :             tBodyAcc-std()-X
+5              tBodyAccStdY   --> mean for each activity and each subject of the feature :             tBodyAcc-std()-Y
+6              tBodyAccStdZ   --> mean for each activity and each subject of the feature :             tBodyAcc-std()-Z
+7          tGravityAccMeanX   --> mean for each activity and each subject of the feature :         tGravityAcc-mean()-X
+8          tGravityAccMeanY   --> mean for each activity and each subject of the feature :         tGravityAcc-mean()-Y
+9          tGravityAccMeanZ   --> mean for each activity and each subject of the feature :         tGravityAcc-mean()-Z
+10          tGravityAccStdX   --> mean for each activity and each subject of the feature :          tGravityAcc-std()-X
+11          tGravityAccStdY   --> mean for each activity and each subject of the feature :          tGravityAcc-std()-Y
+12          tGravityAccStdZ   --> mean for each activity and each subject of the feature :          tGravityAcc-std()-Z
+13        tBodyAccJerkMeanX   --> mean for each activity and each subject of the feature :        tBodyAccJerk-mean()-X
+14        tBodyAccJerkMeanY   --> mean for each activity and each subject of the feature :        tBodyAccJerk-mean()-Y
+15        tBodyAccJerkMeanZ   --> mean for each activity and each subject of the feature :        tBodyAccJerk-mean()-Z
+16         tBodyAccJerkStdX   --> mean for each activity and each subject of the feature :         tBodyAccJerk-std()-X
+17         tBodyAccJerkStdY   --> mean for each activity and each subject of the feature :         tBodyAccJerk-std()-Y
+18         tBodyAccJerkStdZ   --> mean for each activity and each subject of the feature :         tBodyAccJerk-std()-Z
+19           tBodyGyroMeanX   --> mean for each activity and each subject of the feature :           tBodyGyro-mean()-X
+20           tBodyGyroMeanY   --> mean for each activity and each subject of the feature :           tBodyGyro-mean()-Y
+21           tBodyGyroMeanZ   --> mean for each activity and each subject of the feature :           tBodyGyro-mean()-Z
+22            tBodyGyroStdX   --> mean for each activity and each subject of the feature :            tBodyGyro-std()-X
+23            tBodyGyroStdY   --> mean for each activity and each subject of the feature :            tBodyGyro-std()-Y
+24            tBodyGyroStdZ   --> mean for each activity and each subject of the feature :            tBodyGyro-std()-Z
+25       tBodyGyroJerkMeanX   --> mean for each activity and each subject of the feature :       tBodyGyroJerk-mean()-X
+26       tBodyGyroJerkMeanY   --> mean for each activity and each subject of the feature :       tBodyGyroJerk-mean()-Y
+27       tBodyGyroJerkMeanZ   --> mean for each activity and each subject of the feature :       tBodyGyroJerk-mean()-Z
+28        tBodyGyroJerkStdX   --> mean for each activity and each subject of the feature :        tBodyGyroJerk-std()-X
+29        tBodyGyroJerkStdY   --> mean for each activity and each subject of the feature :        tBodyGyroJerk-std()-Y
+30        tBodyGyroJerkStdZ   --> mean for each activity and each subject of the feature :        tBodyGyroJerk-std()-Z
+31          tBodyAccMagMean   --> mean for each activity and each subject of the feature :           tBodyAccMag-mean()
+32           tBodyAccMagStd   --> mean for each activity and each subject of the feature :            tBodyAccMag-std()
+33       tGravityAccMagMean   --> mean for each activity and each subject of the feature :        tGravityAccMag-mean()
+34        tGravityAccMagStd   --> mean for each activity and each subject of the feature :         tGravityAccMag-std()
+35      tBodyAccJerkMagMean   --> mean for each activity and each subject of the feature :       tBodyAccJerkMag-mean()
+36       tBodyAccJerkMagStd   --> mean for each activity and each subject of the feature :        tBodyAccJerkMag-std()
+37         tBodyGyroMagMean   --> mean for each activity and each subject of the feature :          tBodyGyroMag-mean()
+38          tBodyGyroMagStd   --> mean for each activity and each subject of the feature :           tBodyGyroMag-std()
+39     tBodyGyroJerkMagMean   --> mean for each activity and each subject of the feature :      tBodyGyroJerkMag-mean()
+40      tBodyGyroJerkMagStd   --> mean for each activity and each subject of the feature :       tBodyGyroJerkMag-std()
+41            fBodyAccMeanX   --> mean for each activity and each subject of the feature :            fBodyAcc-mean()-X
+42            fBodyAccMeanY   --> mean for each activity and each subject of the feature :            fBodyAcc-mean()-Y
+43            fBodyAccMeanZ   --> mean for each activity and each subject of the feature :            fBodyAcc-mean()-Z
+44             fBodyAccStdX   --> mean for each activity and each subject of the feature :             fBodyAcc-std()-X
+45             fBodyAccStdY   --> mean for each activity and each subject of the feature :             fBodyAcc-std()-Y
+46             fBodyAccStdZ   --> mean for each activity and each subject of the feature :             fBodyAcc-std()-Z
+47        fBodyAccJerkMeanX   --> mean for each activity and each subject of the feature :        fBodyAccJerk-mean()-X
+48        fBodyAccJerkMeanY   --> mean for each activity and each subject of the feature :        fBodyAccJerk-mean()-Y
+49        fBodyAccJerkMeanZ   --> mean for each activity and each subject of the feature :        fBodyAccJerk-mean()-Z
+50         fBodyAccJerkStdX   --> mean for each activity and each subject of the feature :         fBodyAccJerk-std()-X
+51         fBodyAccJerkStdY   --> mean for each activity and each subject of the feature :         fBodyAccJerk-std()-Y
+52         fBodyAccJerkStdZ   --> mean for each activity and each subject of the feature :         fBodyAccJerk-std()-Z
+53           fBodyGyroMeanX   --> mean for each activity and each subject of the feature :           fBodyGyro-mean()-X
+54           fBodyGyroMeanY   --> mean for each activity and each subject of the feature :           fBodyGyro-mean()-Y
+55           fBodyGyroMeanZ   --> mean for each activity and each subject of the feature :           fBodyGyro-mean()-Z
+56            fBodyGyroStdX   --> mean for each activity and each subject of the feature :            fBodyGyro-std()-X
+57            fBodyGyroStdY   --> mean for each activity and each subject of the feature :            fBodyGyro-std()-Y
+58            fBodyGyroStdZ   --> mean for each activity and each subject of the feature :            fBodyGyro-std()-Z
+59          fBodyAccMagMean   --> mean for each activity and each subject of the feature :           fBodyAccMag-mean()
+60           fBodyAccMagStd   --> mean for each activity and each subject of the feature :            fBodyAccMag-std()
+61  fBodyBodyAccJerkMagMean   --> mean for each activity and each subject of the feature :   fBodyBodyAccJerkMag-mean()
+62   fBodyBodyAccJerkMagStd   --> mean for each activity and each subject of the feature :    fBodyBodyAccJerkMag-std()
+63     fBodyBodyGyroMagMean   --> mean for each activity and each subject of the feature :      fBodyBodyGyroMag-mean()
+64      fBodyBodyGyroMagStd   --> mean for each activity and each subject of the feature :       fBodyBodyGyroMag-std()
+65 fBodyBodyGyroJerkMagMean   --> mean for each activity and each subject of the feature :  fBodyBodyGyroJerkMag-mean()
+66  fBodyBodyGyroJerkMagStd   --> mean for each activity and each subject of the feature :   fBodyBodyGyroJerkMag-std()
+
+
