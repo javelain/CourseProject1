@@ -3,8 +3,9 @@ Codebooks
 See below the information about each variable found on the submited tidy data (tidydata.txt).
 You should read the files "features.txt" and "features_info.txt" from the downloaded raw file to have more information about the feature.
 
+the "subject" variable contain the id from the 30 people on the experimentation, the "activity" is the lebeled activity perform by each people.
 
-
+Below is all other variable with a little description
  
 1             tBodyAccMeanX   --> mean for each activity and each subject of the feature :            tBodyAcc-mean()-X
 2             tBodyAccMeanY   --> mean for each activity and each subject of the feature :            tBodyAcc-mean()-Y
