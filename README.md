@@ -3,7 +3,7 @@ Getting and Cleaning Data Course Project
 ### Files on this repo
   - **run_analysis.R** : this is the script to be loaded in R to obtain the tidy data set from the Samsung data.
   - **RREADME.md** : this file present diferent files on this repo and describe how to use the script works.
-  - **codebooks.tx** : this indicates all the variables and presents other relevant information about them.
+  - **codebooks.txt** : this indicates all the variables and presents other relevant information about them.
 
 
 ### How to run the *run_analysis.R* scripts into R
