@@ -28,7 +28,7 @@ If you open the script on an editor (It can be Rstudio or Notepad++ or ...), you
   - The tidy data set `dt_final` is write on text file **"tidydata.txt"** on the current working directory.
 
 ### How to read the **"tidydata.txt"** file
-To read into a variable (for example `dt`) the **"tidydata.txt"** file you could use this command into your R console : `dt <- read.table("tidydata.txt", header = T)`. To have an overview of the tidy data set you could use `View(dt)`. 
+To read into a variable (for example `dt`) the **"tidydata.txt"** file you could use this command into your R console : `dt <- read.table("tidydata.txt", header = T)`. After that, to have an overview of the tidy data set you could use `View(dt)`. 
   
 
 
